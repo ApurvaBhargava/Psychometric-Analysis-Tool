@@ -1,5 +1,5 @@
 # Psychometric-Analysis-Tool
-
+Tool for interviewers and/or psychologists that powers judgement by determining the interviewee’s psychological characteristics based on the detection and analysis of subjective factors such as facial expressions, speech emotions and opinions (by employing Machine Learning models).
 
 ## Notes
 * Go to [Presentation](https://github.com/ApurvaBhargava/Psychometric-Analysis-Tool/blob/master/Documents/FYP%20Presentation.pdf) for presentation on the project.
