@@ -1,4 +1,6 @@
 # Psychometric-Analysis-Tool
+> **(July, 2018 - October, 2018)**
+
 Tool for interviewers and/or psychologists that powers judgement by determining the interviewee’s psychological characteristics based on the detection and analysis of subjective factors such as facial expressions, speech emotions and opinions (by employing Machine Learning models).
 
 ## Notes
